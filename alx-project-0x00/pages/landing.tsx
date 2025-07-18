@@ -31,7 +31,7 @@ const landingPage: React.FC =  () => {
         <h2 className="text-xl font-semibold">Large Buttons</h2>
         <div className="flex gap-2">
           <Button title="Large Rounded-sm" className="text-lg rounded-sm px-6 py-3" />
-          <Button title="Large Rounded-md" className="text-lg rounded-md px-6 py-3" />
+          <Button title="Large Rounded-lg" className="text-lg rounded-lg px-6 py-3" />
           <Button title="Large Rounded-full" className="text-lg rounded-full px-6 py-3" />
         </div>
       </div>
