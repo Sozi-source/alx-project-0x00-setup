@@ -1,5 +1,6 @@
 import Card from "@/components/Card"
 import Button from "@/components/Button";
+import { ButtonProps } from "@/interfaces";
 
 const landingPage: React.FC =  () => {
   return (
